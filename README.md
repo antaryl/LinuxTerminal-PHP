@@ -1,6 +1,6 @@
 # Linux Terminal PHP
 
-Include this App in your project and start using your simple Linux Terminal in a Webpage
+Include term.php file in your project and start using your simple Linux Terminal in a Webpage
 
 ## Requirements
 - PHP 5.0 or 7.0
